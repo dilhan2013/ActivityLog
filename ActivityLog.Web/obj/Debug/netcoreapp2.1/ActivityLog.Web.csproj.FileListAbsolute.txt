@@ -1,0 +1,14 @@
+C:\temp\src\ActivityLog\ActivityLog.Web\bin\Debug\netcoreapp2.1\ActivityLog.Web.deps.json
+C:\temp\src\ActivityLog\ActivityLog.Web\bin\Debug\netcoreapp2.1\ActivityLog.Web.runtimeconfig.json
+C:\temp\src\ActivityLog\ActivityLog.Web\bin\Debug\netcoreapp2.1\ActivityLog.Web.runtimeconfig.dev.json
+C:\temp\src\ActivityLog\ActivityLog.Web\bin\Debug\netcoreapp2.1\ActivityLog.Web.dll
+C:\temp\src\ActivityLog\ActivityLog.Web\bin\Debug\netcoreapp2.1\ActivityLog.Web.pdb
+C:\temp\src\ActivityLog\ActivityLog.Web\obj\Debug\netcoreapp2.1\ActivityLog.Web.csprojAssemblyReference.cache
+C:\temp\src\ActivityLog\ActivityLog.Web\obj\Debug\netcoreapp2.1\ActivityLog.Web.csproj.CoreCompileInputs.cache
+C:\temp\src\ActivityLog\ActivityLog.Web\obj\Debug\netcoreapp2.1\ActivityLog.Web.RazorAssemblyInfo.cache
+C:\temp\src\ActivityLog\ActivityLog.Web\obj\Debug\netcoreapp2.1\ActivityLog.Web.RazorAssemblyInfo.cs
+C:\temp\src\ActivityLog\ActivityLog.Web\obj\Debug\netcoreapp2.1\ActivityLog.Web.AssemblyInfoInputs.cache
+C:\temp\src\ActivityLog\ActivityLog.Web\obj\Debug\netcoreapp2.1\ActivityLog.Web.AssemblyInfo.cs
+C:\temp\src\ActivityLog\ActivityLog.Web\obj\Debug\netcoreapp2.1\ActivityLog.Web.RazorTargetAssemblyInfo.cache
+C:\temp\src\ActivityLog\ActivityLog.Web\obj\Debug\netcoreapp2.1\ActivityLog.Web.dll
+C:\temp\src\ActivityLog\ActivityLog.Web\obj\Debug\netcoreapp2.1\ActivityLog.Web.pdb
